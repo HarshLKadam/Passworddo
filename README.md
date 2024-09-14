@@ -4,9 +4,9 @@ The project name is passworddo
 2) it is  basically is my first functional project so i didn't attach any database in this project 
 3) i have use the localsystem for the saving the password and for use it 
 4) added feauters-
-1) copy-: you can easily copy your password using  copy button 
-2) edit- you can easily edit your URL Name and Username and passwords 
-3) delete- you can easily delete the unwanted entries 
+  1) copy-: you can easily copy your password using  copy button 
+  2) edit- you can easily edit your URL Name and Username and passwords 
+  3) delete- you can easily delete the unwanted entries 
 
 you can easily Access it via - https://passworddo.netlify.app/
 
